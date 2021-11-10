@@ -1,10 +1,95 @@
-<?xml version="1.0"?>
+<?xml version="1.0" encoding="utf-8"?>
 <!DOCTYPE martif PUBLIC "ISO 12200:1999A//DTD MARTIF core (DXFcdV04)//EN" "TBXcdv04.dtd">
-<martif type="TBX">
-<martifHeader>
-<fileDesc>
-<sourceDesc><p>Translate Toolkit</p></sourceDesc>
-</fileDesc>
-</martifHeader>
-<text><body></body></text>
+<martif type="TBX" xml:lang="en">
+    <martifHeader>
+        <fileDesc>
+            <sourceDesc>
+                <p>Translate Toolkit</p>
+            </sourceDesc>
+        </fileDesc>
+    </martifHeader>
+    <text>
+        <body>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>bisect</term></tig></langSet>
+                <langSet xml:lang="zh_Hant"><tig><term>二分搜尋</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>pack</term></tig></langSet>
+                <langSet xml:lang="zh_Hant"><tig><term>包</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>multi-pack</term></tig></langSet>
+                <langSet xml:lang="zh_Hant"><tig><term>多包</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>bitmap</term></tig></langSet>
+                <langSet xml:lang="zh_Hant"><tig><term>位圖</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>index</term></tig></langSet>
+                <langSet xml:lang="zh_Hant"><tig><term>索引</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>revocation</term></tig></langSet>
+                <langSet xml:lang="zh_Hant"><tig><term>廢止</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>spec</term></tig></langSet>
+                <langSet xml:lang="zh_Hant"><tig><term>規格</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>ref</term></tig></langSet>
+                <langSet xml:lang="zh_Hant"><tig><term>引用</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>reference</term></tig></langSet>
+                <langSet xml:lang="zh_Hant"><tig><term>引用</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>regular expression</term></tig></langSet>
+                <langSet xml:lang="zh_Hant"><tig><term>常規表示式</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>unbundle</term></tig></langSet>
+                <langSet xml:lang="zh_Hant"><tig><term>拆分</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>atomic</term></tig></langSet>
+                <langSet xml:lang="zh_Hant"><tig><term>atomic</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>expression</term></tig></langSet>
+                <langSet xml:lang="zh_Hant"><tig><term>表示式</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>src</term></tig></langSet>
+                <langSet xml:lang="zh_Hant"><tig><term>來源</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>source</term></tig></langSet>
+                <langSet xml:lang="zh_Hant"><tig><term>來源</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>dst</term></tig></langSet>
+                <langSet xml:lang="zh_Hant"><tig><term>目的地</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>destination</term></tig></langSet>
+                <langSet xml:lang="zh_Hant"><tig><term>目的地</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>extension</term></tig></langSet>
+                <langSet xml:lang="zh_Hant"><tig><term>擴充</term></tig></langSet>
+            </termEntry>
+            <termEntry id="1">
+                <langSet xml:lang="en"><tig><term>extension</term></tig></langSet>
+                <langSet xml:lang="zh_Hant"><tig><term>延伸</term></tig></langSet>
+            </termEntry>
+            <termEntry id="2">
+                <langSet xml:lang="en"><tig><term>extension</term></tig></langSet>
+                <langSet xml:lang="zh_Hant"><tig><term>副檔名</term></tig></langSet>
+            </termEntry>
+        </body>
+    </text>
 </martif>
