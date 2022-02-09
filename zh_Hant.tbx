@@ -90,6 +90,18 @@
                 <langSet xml:lang="en"><tig><term>extension</term></tig></langSet>
                 <langSet xml:lang="zh_Hant"><tig><term>副檔名</term></tig></langSet>
             </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>worktree</term></tig></langSet>
+                <langSet xml:lang="zh_Hant"><tig><term>工作區</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>checkout</term></tig></langSet>
+                <langSet xml:lang="zh_Hant"><tig><term>簽出</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>enlistment</term></tig></langSet>
+                <langSet xml:lang="zh_Hant"><tig><term>編列名單</term></tig></langSet>
+            </termEntry>
         </body>
     </text>
 </martif>
