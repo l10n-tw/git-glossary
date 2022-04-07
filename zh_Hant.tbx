@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE martif PUBLIC "ISO 12200:1999A//DTD MARTIF core (DXFcdV04)//EN" "TBXcdv04.dtd">
 <martif type="TBX" xml:lang="en">
     <martifHeader>
@@ -101,6 +101,14 @@
             <termEntry>
                 <langSet xml:lang="en"><tig><term>enlistment</term></tig></langSet>
                 <langSet xml:lang="zh_Hant"><tig><term>編列名單</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>prune</term></tig></langSet>
+                <langSet xml:lang="zh_Hant"><tig><term>剪除</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Emit</term></tig></langSet>
+                <langSet xml:lang="zh_Hant"><tig><term>輸出</term></tig></langSet>
             </termEntry>
         </body>
     </text>
