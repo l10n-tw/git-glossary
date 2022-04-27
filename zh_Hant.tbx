@@ -110,6 +110,10 @@
                 <langSet xml:lang="en"><tig><term>Emit</term></tig></langSet>
                 <langSet xml:lang="zh_Hant"><tig><term>輸出</term></tig></langSet>
             </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>pattern</term></tig></langSet>
+                <langSet xml:lang="zh_Hant"><tig><term>模式</term></tig></langSet>
+            </termEntry>
         </body>
     </text>
 </martif>
