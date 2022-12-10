@@ -746,6 +746,22 @@
                 <langSet xml:lang="en"><tig><term>aborting</term></tig></langSet>
                 <langSet xml:lang="zh_Hant"><tig><term>中止</term></tig></langSet>
             </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>additions</term></tig></langSet>
+                <langSet xml:lang="zh_Hant"><tig><term>加入內容</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>added</term></tig></langSet>
+                <langSet xml:lang="zh_Hant"><tig><term>加入的</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>deleted</term></tig></langSet>
+                <langSet xml:lang="zh_Hant"><tig><term>刪除的</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>decimal notation</term></tig></langSet>
+                <langSet xml:lang="zh_Hant"><tig><term>十進位數字</term></tig></langSet>
+            </termEntry>
         </body>
     </text>
 </martif>
