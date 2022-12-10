@@ -218,6 +218,10 @@
                 <langSet xml:lang="en"><tig><term>diff</term></tig></langSet>
                 <langSet xml:lang="zh_Hant"><tig><term>diff</term></tig></langSet>
             </termEntry>
+            <termEntry id="2">
+                <langSet xml:lang="en"><tig><term>diff</term></tig></langSet>
+                <langSet xml:lang="zh_Hant"><tig><term>差異部分</term></tig></langSet>
+            </termEntry>
         </body>
     </text>
 </martif>
