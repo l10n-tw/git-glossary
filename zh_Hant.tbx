@@ -450,6 +450,82 @@
                 <langSet xml:lang="en"><tig><term>dirty</term></tig></langSet>
                 <langSet xml:lang="zh_Hant"><tig><term>有異動</term></tig></langSet>
             </termEntry>
+            <termEntry id="1">
+                <langSet xml:lang="en"><tig><term>dirty</term></tig></langSet>
+                <langSet xml:lang="zh_Hant"><tig><term>異動處</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>dry run</term></tig></langSet>
+                <langSet xml:lang="zh_Hant"><tig><term>測試執行</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>fall back</term></tig></langSet>
+                <langSet xml:lang="zh_Hant"><tig><term>回復</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>fetch</term></tig></langSet>
+                <langSet xml:lang="zh_Hant"><tig><term>抓取</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>filter</term></tig></langSet>
+                <langSet xml:lang="zh_Hant"><tig><term>過濾器</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>flag</term></tig></langSet>
+                <langSet xml:lang="zh_Hant"><tig><term>標記</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>fragment</term></tig></langSet>
+                <langSet xml:lang="zh_Hant"><tig><term>區段</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>good</term></tig></langSet>
+                <langSet xml:lang="zh_Hant"><tig><term>良好</term></tig></langSet>
+            </termEntry>
+            <termEntry id="1">
+                <langSet xml:lang="en"><tig><term>good</term></tig></langSet>
+                <langSet xml:lang="zh_Hant"><tig><term>好的</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>HEAD</term></tig></langSet>
+                <langSet xml:lang="zh_Hant"><tig><term>HEAD</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>history</term></tig></langSet>
+                <langSet xml:lang="zh_Hant"><tig><term>歷史記錄</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>inherit</term></tig></langSet>
+                <langSet xml:lang="zh_Hant"><tig><term>繼承</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>multi-pack-index</term></tig></langSet>
+                <langSet xml:lang="zh_Hant"><tig><term>多套件索引</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>note</term></tig></langSet>
+                <langSet xml:lang="zh_Hant"><tig><term>註</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>offset</term></tig></langSet>
+                <langSet xml:lang="zh_Hant"><tig><term>偏移</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>override</term></tig></langSet>
+                <langSet xml:lang="zh_Hant"><tig><term>覆寫</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>parent</term></tig></langSet>
+                <langSet xml:lang="zh_Hant"><tig><term>上級</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>pass</term></tig></langSet>
+                <langSet xml:lang="zh_Hant"><tig><term>傳入</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>patch</term></tig></langSet>
+                <langSet xml:lang="zh_Hant"><tig><term>修補檔</term></tig></langSet>
+            </termEntry>
         </body>
     </text>
 </martif>
