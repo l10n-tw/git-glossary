@@ -530,6 +530,118 @@
                 <langSet xml:lang="en"><tig><term>patch</term></tig></langSet>
                 <langSet xml:lang="zh_Hant"><tig><term>修補</term></tig></langSet>
             </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>pathspec</term></tig></langSet>
+                <langSet xml:lang="zh_Hant"><tig><term>路徑規格</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>pull</term></tig></langSet>
+                <langSet xml:lang="zh_Hant"><tig><term>拉取</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>rebase</term></tig></langSet>
+                <langSet xml:lang="zh_Hant"><tig><term>重訂基底</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>record</term></tig></langSet>
+                <langSet xml:lang="zh_Hant"><tig><term>錄製</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>redirect</term></tig></langSet>
+                <langSet xml:lang="zh_Hant"><tig><term>重新導向</term></tig></langSet>
+            </termEntry>
+            <termEntry id="1">
+                <langSet xml:lang="en"><tig><term>ref</term></tig></langSet>
+                <langSet xml:lang="zh_Hant"><tig><term>引用</term></tig></langSet>
+            </termEntry>
+            <termEntry id="1">
+                <langSet xml:lang="en"><tig><term>reference</term></tig></langSet>
+                <langSet xml:lang="zh_Hant"><tig><term>引用</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>refspec</term></tig></langSet>
+                <langSet xml:lang="zh_Hant"><tig><term>引用規格</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>rev</term></tig></langSet>
+                <langSet xml:lang="zh_Hant"><tig><term>修訂版</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>revision</term></tig></langSet>
+                <langSet xml:lang="zh_Hant"><tig><term>修訂版</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>rewind</term></tig></langSet>
+                <langSet xml:lang="zh_Hant"><tig><term>倒轉</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>script</term></tig></langSet>
+                <langSet xml:lang="zh_Hant"><tig><term>文稿</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>series</term></tig></langSet>
+                <langSet xml:lang="zh_Hant"><tig><term>序列</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>sorry</term></tig></langSet>
+                <langSet xml:lang="zh_Hant"><tig><term>抱歉</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>sparse-checkout</term></tig></langSet>
+                <langSet xml:lang="zh_Hant"><tig><term>稀疏簽出</term></tig></langSet>
+            </termEntry>
+            <termEntry id="1">
+                <langSet xml:lang="en"><tig><term>spec</term></tig></langSet>
+                <langSet xml:lang="zh_Hant"><tig><term>規格</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>temporary</term></tig></langSet>
+                <langSet xml:lang="zh_Hant"><tig><term>暫時性</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>temporary index</term></tig></langSet>
+                <langSet xml:lang="zh_Hant"><tig><term>暫存索引</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>timestamp</term></tig></langSet>
+                <langSet xml:lang="zh_Hant"><tig><term>時間戳</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>truncate</term></tig></langSet>
+                <langSet xml:lang="zh_Hant"><tig><term>截短</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>trunc</term></tig></langSet>
+                <langSet xml:lang="zh_Hant"><tig><term>截短</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>truncating</term></tig></langSet>
+                <langSet xml:lang="zh_Hant"><tig><term>截短</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>undecided</term></tig></langSet>
+                <langSet xml:lang="zh_Hant"><tig><term>未決定</term></tig></langSet>
+            </termEntry>
+            <termEntry id="1">
+                <langSet xml:lang="en"><tig><term>undecided</term></tig></langSet>
+                <langSet xml:lang="zh_Hant"><tig><term>未決</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>verbose</term></tig></langSet>
+                <langSet xml:lang="zh_Hant"><tig><term>詳細輸出</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>for more information</term></tig></langSet>
+                <langSet xml:lang="zh_Hant"><tig><term>深入了解</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>invalid</term></tig></langSet>
+                <langSet xml:lang="zh_Hant"><tig><term>無效</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Unrecognized</term></tig></langSet>
+                <langSet xml:lang="zh_Hant"><tig><term>無法識別</term></tig></langSet>
+            </termEntry>
         </body>
     </text>
 </martif>
