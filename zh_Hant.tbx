@@ -874,6 +874,22 @@
                 <langSet xml:lang="en"><tig><term>bisecting</term></tig></langSet>
                 <langSet xml:lang="zh_Hant"><tig><term>二分搜尋</term></tig></langSet>
             </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>check out</term></tig></langSet>
+                <langSet xml:lang="zh_Hant"><tig><term>簽出</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>append</term></tig></langSet>
+                <langSet xml:lang="zh_Hant"><tig><term>附加</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>appending</term></tig></langSet>
+                <langSet xml:lang="zh_Hant"><tig><term>附加</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>take</term></tig></langSet>
+                <langSet xml:lang="zh_Hant"><tig><term>取</term></tig></langSet>
+            </termEntry>
         </body>
     </text>
 </martif>
