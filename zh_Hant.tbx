@@ -378,6 +378,14 @@
                 <langSet xml:lang="en"><tig><term>resolution</term></tig></langSet>
                 <langSet xml:lang="zh_Hant"><tig><term>解決方案</term></tig></langSet>
             </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>fast-forward</term></tig></langSet>
+                <langSet xml:lang="zh_Hant"><tig><term>快轉</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>abort</term></tig></langSet>
+                <langSet xml:lang="zh_Hant"><tig><term>中止</term></tig></langSet>
+            </termEntry>
         </body>
     </text>
 </martif>
