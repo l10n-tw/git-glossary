@@ -12,11 +12,11 @@
         <body>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>pack</term></tig></langSet>
-                <langSet xml:lang="zh_Hant"><tig><term>套件</term></tig></langSet>
+                <langSet xml:lang="zh_Hant"><tig><term>封裝</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>multi-pack</term></tig></langSet>
-                <langSet xml:lang="zh_Hant"><tig><term>多套件</term></tig></langSet>
+                <langSet xml:lang="zh_Hant"><tig><term>多封裝</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>bitmap</term></tig></langSet>
@@ -496,7 +496,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>multi-pack-index</term></tig></langSet>
-                <langSet xml:lang="zh_Hant"><tig><term>多套件索引</term></tig></langSet>
+                <langSet xml:lang="zh_Hant"><tig><term>多封裝索引</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>note</term></tig></langSet>
