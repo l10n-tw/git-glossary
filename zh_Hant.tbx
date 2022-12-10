@@ -890,6 +890,118 @@
                 <langSet xml:lang="en"><tig><term>take</term></tig></langSet>
                 <langSet xml:lang="zh_Hant"><tig><term>取</term></tig></langSet>
             </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>rewinding</term></tig></langSet>
+                <langSet xml:lang="zh_Hant"><tig><term>倒轉</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>sign</term></tig></langSet>
+                <langSet xml:lang="zh_Hant"><tig><term>簽名</term></tig></langSet>
+            </termEntry>
+            <termEntry id="1">
+                <langSet xml:lang="en"><tig><term>sign</term></tig></langSet>
+                <langSet xml:lang="zh_Hant"><tig><term>簽章</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>signature</term></tig></langSet>
+                <langSet xml:lang="zh_Hant"><tig><term>簽章</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>signatures</term></tig></langSet>
+                <langSet xml:lang="zh_Hant"><tig><term>簽章</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Stray</term></tig></langSet>
+                <langSet xml:lang="zh_Hant"><tig><term>失散</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>used together</term></tig></langSet>
+                <langSet xml:lang="zh_Hant"><tig><term>同時使用</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>recursively</term></tig></langSet>
+                <langSet xml:lang="zh_Hant"><tig><term>遞迴</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>dereference</term></tig></langSet>
+                <langSet xml:lang="zh_Hant"><tig><term>反解引用</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>bundle</term></tig></langSet>
+                <langSet xml:lang="zh_Hant"><tig><term>套件包</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>list</term></tig></langSet>
+                <langSet xml:lang="zh_Hant"><tig><term>清單</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>key</term></tig></langSet>
+                <langSet xml:lang="zh_Hant"><tig><term>鍵</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>value</term></tig></langSet>
+                <langSet xml:lang="zh_Hant"><tig><term>值</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>failed</term></tig></langSet>
+                <langSet xml:lang="zh_Hant"><tig><term>失敗</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>socket</term></tig></langSet>
+                <langSet xml:lang="zh_Hant"><tig><term>通訊端</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>compatible</term></tig></langSet>
+                <langSet xml:lang="zh_Hant"><tig><term>相容</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>incompatible</term></tig></langSet>
+                <langSet xml:lang="zh_Hant"><tig><term>不相容</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>promisor</term></tig></langSet>
+                <langSet xml:lang="zh_Hant"><tig><term>承諾者</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>refs</term></tig></langSet>
+                <langSet xml:lang="zh_Hant"><tig><term>引用</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>section</term></tig></langSet>
+                <langSet xml:lang="zh_Hant"><tig><term>區塊</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>stale</term></tig></langSet>
+                <langSet xml:lang="zh_Hant"><tig><term>過時</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>iteration</term></tig></langSet>
+                <langSet xml:lang="zh_Hant"><tig><term>迭代</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>iterator</term></tig></langSet>
+                <langSet xml:lang="zh_Hant"><tig><term>迭代器</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>default</term></tig></langSet>
+                <langSet xml:lang="zh_Hant"><tig><term>預設</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>invalidate</term></tig></langSet>
+                <langSet xml:lang="zh_Hant"><tig><term>使失效</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>entry</term></tig></langSet>
+                <langSet xml:lang="zh_Hant"><tig><term>項目</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>cache</term></tig></langSet>
+                <langSet xml:lang="zh_Hant"><tig><term>快取</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>entries</term></tig></langSet>
+                <langSet xml:lang="zh_Hant"><tig><term>項目</term></tig></langSet>
+            </termEntry>
         </body>
     </text>
 </martif>
