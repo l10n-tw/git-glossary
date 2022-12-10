@@ -182,6 +182,42 @@
                 <langSet xml:lang="en"><tig><term>choose</term></tig></langSet>
                 <langSet xml:lang="zh_Hant"><tig><term>選擇</term></tig></langSet>
             </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>path</term></tig></langSet>
+                <langSet xml:lang="zh_Hant"><tig><term>路徑</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>update</term></tig></langSet>
+                <langSet xml:lang="zh_Hant"><tig><term>更新</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>untracked</term></tig></langSet>
+                <langSet xml:lang="zh_Hant"><tig><term>未追蹤</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>working tree</term></tig></langSet>
+                <langSet xml:lang="zh_Hant"><tig><term>工作目錄</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>tree</term></tig></langSet>
+                <langSet xml:lang="zh_Hant"><tig><term>tree</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>blob</term></tig></langSet>
+                <langSet xml:lang="zh_Hant"><tig><term>blob</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>review</term></tig></langSet>
+                <langSet xml:lang="zh_Hant"><tig><term>檢閱</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>diff</term></tig></langSet>
+                <langSet xml:lang="zh_Hant"><tig><term>差異部分</term></tig></langSet>
+            </termEntry>
+            <termEntry id="1">
+                <langSet xml:lang="en"><tig><term>diff</term></tig></langSet>
+                <langSet xml:lang="zh_Hant"><tig><term>diff</term></tig></langSet>
+            </termEntry>
         </body>
     </text>
 </martif>
