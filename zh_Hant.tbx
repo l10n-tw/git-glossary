@@ -114,6 +114,54 @@
                 <langSet xml:lang="en"><tig><term>pattern</term></tig></langSet>
                 <langSet xml:lang="zh_Hant"><tig><term>模式</term></tig></langSet>
             </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>change</term></tig></langSet>
+                <langSet xml:lang="zh_Hant"><tig><term>變更</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>unchanged</term></tig></langSet>
+                <langSet xml:lang="zh_Hant"><tig><term>未變更</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Revert</term></tig></langSet>
+                <langSet xml:lang="zh_Hant"><tig><term>還原</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Could not</term></tig></langSet>
+                <langSet xml:lang="zh_Hant"><tig><term>無法</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>track</term></tig></langSet>
+                <langSet xml:lang="zh_Hant"><tig><term>追蹤</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>add</term></tig></langSet>
+                <langSet xml:lang="zh_Hant"><tig><term>加入</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>stage</term></tig></langSet>
+                <langSet xml:lang="zh_Hant"><tig><term>暫存</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>pick</term></tig></langSet>
+                <langSet xml:lang="zh_Hant"><tig><term>挑選</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>hunk</term></tig></langSet>
+                <langSet xml:lang="zh_Hant"><tig><term>區塊</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>staged set of changes</term></tig></langSet>
+                <langSet xml:lang="zh_Hant"><tig><term>變更暫存集</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>help</term></tig></langSet>
+                <langSet xml:lang="zh_Hant"><tig><term>說明</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>prompt</term></tig></langSet>
+                <langSet xml:lang="zh_Hant"><tig><term>提示</term></tig></langSet>
+            </termEntry>
         </body>
     </text>
 </martif>
