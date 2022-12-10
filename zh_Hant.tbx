@@ -382,6 +382,74 @@
                 <langSet xml:lang="en"><tig><term>abort</term></tig></langSet>
                 <langSet xml:lang="zh_Hant"><tig><term>中止</term></tig></langSet>
             </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>3-way merge</term></tig></langSet>
+                <langSet xml:lang="zh_Hant"><tig><term>三方合併</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>add new</term></tig></langSet>
+                <langSet xml:lang="zh_Hant"><tig><term>新增</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>ambiguous</term></tig></langSet>
+                <langSet xml:lang="zh_Hant"><tig><term>歧義</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>ancestor</term></tig></langSet>
+                <langSet xml:lang="zh_Hant"><tig><term>祖先</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>archive</term></tig></langSet>
+                <langSet xml:lang="zh_Hant"><tig><term>封存</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>argument</term></tig></langSet>
+                <langSet xml:lang="zh_Hant"><tig><term>引數</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>bad</term></tig></langSet>
+                <langSet xml:lang="zh_Hant"><tig><term>壞的</term></tig></langSet>
+            </termEntry>
+            <termEntry id="1">
+                <langSet xml:lang="en"><tig><term>bad</term></tig></langSet>
+                <langSet xml:lang="zh_Hant"><tig><term>無效</term></tig></langSet>
+            </termEntry>
+            <termEntry id="1">
+                <langSet xml:lang="en"><tig><term>bisect</term></tig></langSet>
+                <langSet xml:lang="zh_Hant"><tig><term>二分搜尋</term></tig></langSet>
+            </termEntry>
+            <termEntry id="1">
+                <langSet xml:lang="en"><tig><term>blob</term></tig></langSet>
+                <langSet xml:lang="zh_Hant"><tig><term>blob</term></tig></langSet>
+            </termEntry>
+            <termEntry id="1">
+                <langSet xml:lang="en"><tig><term>tree</term></tig></langSet>
+                <langSet xml:lang="zh_Hant"><tig><term>tree</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>body</term></tig></langSet>
+                <langSet xml:lang="zh_Hant"><tig><term>內文</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>clone</term></tig></langSet>
+                <langSet xml:lang="zh_Hant"><tig><term>複製</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>cone</term></tig></langSet>
+                <langSet xml:lang="zh_Hant"><tig><term>cone</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>config</term></tig></langSet>
+                <langSet xml:lang="zh_Hant"><tig><term>組態</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>descriptor</term></tig></langSet>
+                <langSet xml:lang="zh_Hant"><tig><term>描述元</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>dirty</term></tig></langSet>
+                <langSet xml:lang="zh_Hant"><tig><term>有異動</term></tig></langSet>
+            </termEntry>
         </body>
     </text>
 </martif>
