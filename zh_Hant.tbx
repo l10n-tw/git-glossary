@@ -178,6 +178,10 @@
                 <langSet xml:lang="en"><tig><term>select</term></tig></langSet>
                 <langSet xml:lang="zh_Hant"><tig><term>選取</term></tig></langSet>
             </termEntry>
+            <termEntry id="choose">
+                <langSet xml:lang="en"><tig><term>choose</term></tig></langSet>
+                <langSet xml:lang="zh_Hant"><tig><term>選擇</term></tig></langSet>
+            </termEntry>
         </body>
     </text>
 </martif>
