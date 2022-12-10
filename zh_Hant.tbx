@@ -113,6 +113,7 @@
             <termEntry>
                 <langSet xml:lang="en"><tig><term>change</term></tig></langSet>
                 <langSet xml:lang="zh_Hant"><tig><term>變更</term></tig></langSet>
+                <note from="translator">(verb.)</note>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>unchanged</term></tig></langSet>
@@ -173,10 +174,12 @@
             <termEntry>
                 <langSet xml:lang="en"><tig><term>select</term></tig></langSet>
                 <langSet xml:lang="zh_Hant"><tig><term>選取</term></tig></langSet>
+                <note from="translator">選取 → 一個檔案/項目/物件。</note>
             </termEntry>
             <termEntry id="choose">
                 <langSet xml:lang="en"><tig><term>choose</term></tig></langSet>
                 <langSet xml:lang="zh_Hant"><tig><term>選擇</term></tig></langSet>
+                <note from="translator">選擇一個項目/檔案/blob/etc.</note>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>path</term></tig></langSet>
@@ -448,6 +451,7 @@
             <termEntry>
                 <langSet xml:lang="en"><tig><term>dirty</term></tig></langSet>
                 <langSet xml:lang="zh_Hant"><tig><term>有異動</term></tig></langSet>
+                <note from="translator">(adj.)</note>
             </termEntry>
             <termEntry id="1">
                 <langSet xml:lang="en"><tig><term>dirty</term></tig></langSet>
@@ -524,10 +528,12 @@
             <termEntry>
                 <langSet xml:lang="en"><tig><term>patch</term></tig></langSet>
                 <langSet xml:lang="zh_Hant"><tig><term>修補檔</term></tig></langSet>
+                <note from="translator">(noun.)</note>
             </termEntry>
             <termEntry id="1">
                 <langSet xml:lang="en"><tig><term>patch</term></tig></langSet>
                 <langSet xml:lang="zh_Hant"><tig><term>修補</term></tig></langSet>
+                <note from="translator">(verb.)</note>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>pathspec</term></tig></langSet>
@@ -1024,6 +1030,7 @@
             <termEntry id="1">
                 <langSet xml:lang="en"><tig><term>default</term></tig></langSet>
                 <langSet xml:lang="zh_Hant"><tig><term>預設值</term></tig></langSet>
+                <note from="translator">as configuration</note>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>object</term></tig></langSet>
@@ -1061,6 +1068,7 @@
             <termEntry>
                 <langSet xml:lang="en"><tig><term>email</term></tig></langSet>
                 <langSet xml:lang="zh_Hant"><tig><term>信箱</term></tig></langSet>
+                <note from="translator">也可以是「電子信箱」，前者比較短。</note>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>blame</term></tig></langSet>
@@ -1275,6 +1283,7 @@
             <termEntry>
                 <langSet xml:lang="en"><tig><term>terminate</term></tig></langSet>
                 <langSet xml:lang="zh_Hant"><tig><term>終止</term></tig></langSet>
+                <descrip>(verb.)</descrip>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>parse</term></tig></langSet>
