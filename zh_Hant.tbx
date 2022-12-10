@@ -288,7 +288,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>context</term></tig></langSet>
-                <langSet xml:lang="zh_Hant"><tig><term>情境</term></tig></langSet>
+                <langSet xml:lang="zh_Hant"><tig><term>上下文</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>expect</term></tig></langSet>
@@ -760,7 +760,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>decimal notation</term></tig></langSet>
-                <langSet xml:lang="zh_Hant"><tig><term>十進位數字</term></tig></langSet>
+                <langSet xml:lang="zh_Hant"><tig><term>(以)十進位數字</term></tig></langSet>
             </termEntry>
         </body>
     </text>
