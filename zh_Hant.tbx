@@ -540,7 +540,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>rebase</term></tig></langSet>
-                <langSet xml:lang="zh_Hant"><tig><term>重訂基底</term></tig></langSet>
+                <langSet xml:lang="zh_Hant"><tig><term>重定基底</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>record</term></tig></langSet>
@@ -780,7 +780,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>new-line</term></tig></langSet>
-                <langSet xml:lang="zh_Hant"><tig><term>換行符號</term></tig></langSet>
+                <langSet xml:lang="zh_Hant"><tig><term>換列符號</term></tig></langSet>
             </termEntry>
         </body>
     </text>
