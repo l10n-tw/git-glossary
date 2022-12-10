@@ -218,6 +218,170 @@
                 <langSet xml:lang="en"><tig><term>diff</term></tig></langSet>
                 <langSet xml:lang="zh_Hant"><tig><term>diff</term></tig></langSet>
             </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>unselect</term></tig></langSet>
+                <langSet xml:lang="zh_Hant"><tig><term>取消選取</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>command</term></tig></langSet>
+                <langSet xml:lang="zh_Hant"><tig><term>命令</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>unstaged</term></tig></langSet>
+                <langSet xml:lang="zh_Hant"><tig><term>未暫存</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>staged</term></tig></langSet>
+                <langSet xml:lang="zh_Hant"><tig><term>已暫存</term></tig></langSet>
+            </termEntry>
+            <termEntry id="1">
+                <langSet xml:lang="en"><tig><term>change</term></tig></langSet>
+                <langSet xml:lang="zh_Hant"><tig><term>更動</term></tig></langSet>
+            </termEntry>
+            <termEntry id="changes">
+                <langSet xml:lang="en"><tig><term>changes</term></tig></langSet>
+                <langSet xml:lang="zh_Hant"><tig><term>更動</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>deletion</term></tig></langSet>
+                <langSet xml:lang="zh_Hant"><tig><term>刪除</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>stash</term></tig></langSet>
+                <langSet xml:lang="zh_Hant"><tig><term>儲藏</term></tig></langSet>
+            </termEntry>
+            <termEntry id="1">
+                <langSet xml:lang="en"><tig><term>deletion</term></tig></langSet>
+                <langSet xml:lang="zh_Hant"><tig><term>刪除動作</term></tig></langSet>
+            </termEntry>
+            <termEntry id="1">
+                <langSet xml:lang="en"><tig><term>add</term></tig></langSet>
+                <langSet xml:lang="zh_Hant"><tig><term>加入</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>addition</term></tig></langSet>
+                <langSet xml:lang="zh_Hant"><tig><term>加入</term></tig></langSet>
+            </termEntry>
+            <termEntry id="1">
+                <langSet xml:lang="en"><tig><term>addition</term></tig></langSet>
+                <langSet xml:lang="zh_Hant"><tig><term>加入動作</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Unstage</term></tig></langSet>
+                <langSet xml:lang="zh_Hant"><tig><term>取消暫存</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>apply</term></tig></langSet>
+                <langSet xml:lang="zh_Hant"><tig><term>套用</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>discard</term></tig></langSet>
+                <langSet xml:lang="zh_Hant"><tig><term>捨棄</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>header</term></tig></langSet>
+                <langSet xml:lang="zh_Hant"><tig><term>標頭</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>line</term></tig></langSet>
+                <langSet xml:lang="zh_Hant"><tig><term>列</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>column</term></tig></langSet>
+                <langSet xml:lang="zh_Hant"><tig><term>行</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>context</term></tig></langSet>
+                <langSet xml:lang="zh_Hant"><tig><term>情境</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>expect</term></tig></langSet>
+                <langSet xml:lang="zh_Hant"><tig><term>預期</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>expected</term></tig></langSet>
+                <langSet xml:lang="zh_Hant"><tig><term>預期</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>hunks</term></tig></langSet>
+                <langSet xml:lang="zh_Hant"><tig><term>區塊</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>overlap</term></tig></langSet>
+                <langSet xml:lang="zh_Hant"><tig><term>重疊</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>guide</term></tig></langSet>
+                <langSet xml:lang="zh_Hant"><tig><term>指引</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>remove</term></tig></langSet>
+                <langSet xml:lang="zh_Hant"><tig><term>移除</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>removed</term></tig></langSet>
+                <langSet xml:lang="zh_Hant"><tig><term>移除</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>lines</term></tig></langSet>
+                <langSet xml:lang="zh_Hant"><tig><term>列</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>columns</term></tig></langSet>
+                <langSet xml:lang="zh_Hant"><tig><term>行</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>selected</term></tig></langSet>
+                <langSet xml:lang="zh_Hant"><tig><term>選取的</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>regex</term></tig></langSet>
+                <langSet xml:lang="zh_Hant"><tig><term>常規表示式</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>regexp</term></tig></langSet>
+                <langSet xml:lang="zh_Hant"><tig><term>常規表示式</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>malformed</term></tig></langSet>
+                <langSet xml:lang="zh_Hant"><tig><term>格式錯誤</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>split</term></tig></langSet>
+                <langSet xml:lang="zh_Hant"><tig><term>分割</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>search</term></tig></langSet>
+                <langSet xml:lang="zh_Hant"><tig><term>尋找</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>query</term></tig></langSet>
+                <langSet xml:lang="zh_Hant"><tig><term>查詢</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Cherry-picking</term></tig></langSet>
+                <langSet xml:lang="zh_Hant"><tig><term>揀選</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>cherry-pick</term></tig></langSet>
+                <langSet xml:lang="zh_Hant"><tig><term>揀選</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>committing</term></tig></langSet>
+                <langSet xml:lang="zh_Hant"><tig><term>提交</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>commit</term></tig></langSet>
+                <langSet xml:lang="zh_Hant"><tig><term>提交</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>resolution</term></tig></langSet>
+                <langSet xml:lang="zh_Hant"><tig><term>解決方案</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>commit</term></tig></langSet>
+                <langSet xml:lang="zh_Hant"><tig><term>提交</term></tig></langSet>
+            </termEntry>
         </body>
     </text>
 </martif>
