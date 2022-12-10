@@ -1002,6 +1002,10 @@
                 <langSet xml:lang="en"><tig><term>entries</term></tig></langSet>
                 <langSet xml:lang="zh_Hant"><tig><term>項目</term></tig></langSet>
             </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>packfile</term></tig></langSet>
+                <langSet xml:lang="zh_Hant"><tig><term>封裝檔案</term></tig></langSet>
+            </termEntry>
         </body>
     </text>
 </martif>
