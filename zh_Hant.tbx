@@ -11,10 +11,6 @@
     <text>
         <body>
             <termEntry>
-                <langSet xml:lang="en"><tig><term>bisect</term></tig></langSet>
-                <langSet xml:lang="zh_Hant"><tig><term>二分搜尋</term></tig></langSet>
-            </termEntry>
-            <termEntry>
                 <langSet xml:lang="en"><tig><term>pack</term></tig></langSet>
                 <langSet xml:lang="zh_Hant"><tig><term>套件</term></tig></langSet>
             </termEntry>
