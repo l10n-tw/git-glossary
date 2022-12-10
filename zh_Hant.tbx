@@ -672,7 +672,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>repository</term></tig></langSet>
-                <langSet xml:lang="zh_Hant"><tig><term>版本酷</term></tig></langSet>
+                <langSet xml:lang="zh_Hant"><tig><term>版本庫</term></tig></langSet>
             </termEntry>
         </body>
     </text>
