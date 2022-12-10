@@ -200,11 +200,11 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>tree</term></tig></langSet>
-                <langSet xml:lang="zh_Hant"><tig><term>tree</term></tig></langSet>
+                <langSet xml:lang="zh_Hant"><tig><term>樹狀物件</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>blob</term></tig></langSet>
-                <langSet xml:lang="zh_Hant"><tig><term>blob</term></tig></langSet>
+                <langSet xml:lang="zh_Hant"><tig><term>資料物件</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>review</term></tig></langSet>
