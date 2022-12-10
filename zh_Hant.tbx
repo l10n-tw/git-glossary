@@ -378,10 +378,6 @@
                 <langSet xml:lang="en"><tig><term>resolution</term></tig></langSet>
                 <langSet xml:lang="zh_Hant"><tig><term>解決方案</term></tig></langSet>
             </termEntry>
-            <termEntry>
-                <langSet xml:lang="en"><tig><term>commit</term></tig></langSet>
-                <langSet xml:lang="zh_Hant"><tig><term>提交</term></tig></langSet>
-            </termEntry>
         </body>
     </text>
 </martif>
