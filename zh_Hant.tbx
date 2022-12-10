@@ -642,6 +642,38 @@
                 <langSet xml:lang="en"><tig><term>Unrecognized</term></tig></langSet>
                 <langSet xml:lang="zh_Hant"><tig><term>無法識別</term></tig></langSet>
             </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>note:</term></tig></langSet>
+                <langSet xml:lang="zh_Hant"><tig><term>註：</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>definition</term></tig></langSet>
+                <langSet xml:lang="zh_Hant"><tig><term>定義</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>sparse</term></tig></langSet>
+                <langSet xml:lang="zh_Hant"><tig><term>稀疏的</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>sparsity</term></tig></langSet>
+                <langSet xml:lang="zh_Hant"><tig><term>稀疏狀態</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>rule</term></tig></langSet>
+                <langSet xml:lang="zh_Hant"><tig><term>規則</term></tig></langSet>
+            </termEntry>
+            <termEntry id="1">
+                <langSet xml:lang="en"><tig><term>rule</term></tig></langSet>
+                <langSet xml:lang="zh_Hant"><tig><term>規則</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>arguments</term></tig></langSet>
+                <langSet xml:lang="zh_Hant"><tig><term>引數</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>repository</term></tig></langSet>
+                <langSet xml:lang="zh_Hant"><tig><term>版本酷</term></tig></langSet>
+            </termEntry>
         </body>
     </text>
 </martif>
