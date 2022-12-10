@@ -196,7 +196,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>working tree</term></tig></langSet>
-                <langSet xml:lang="zh_Hant"><tig><term>工作目錄</term></tig></langSet>
+                <langSet xml:lang="zh_Hant"><tig><term>工作區</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>tree</term></tig></langSet>
@@ -212,7 +212,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>diff</term></tig></langSet>
-                <langSet xml:lang="zh_Hant"><tig><term>差異部分</term></tig></langSet>
+                <langSet xml:lang="zh_Hant"><tig><term>差異</term></tig></langSet>
             </termEntry>
             <termEntry id="1">
                 <langSet xml:lang="en"><tig><term>diff</term></tig></langSet>
