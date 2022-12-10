@@ -762,6 +762,26 @@
                 <langSet xml:lang="en"><tig><term>decimal notation</term></tig></langSet>
                 <langSet xml:lang="zh_Hant"><tig><term>(以)十進位數字</term></tig></langSet>
             </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>summary</term></tig></langSet>
+                <langSet xml:lang="zh_Hant"><tig><term>概要</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>new files</term></tig></langSet>
+                <langSet xml:lang="zh_Hant"><tig><term>新檔案</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>build</term></tig></langSet>
+                <langSet xml:lang="zh_Hant"><tig><term>組建</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>whitespace errors</term></tig></langSet>
+                <langSet xml:lang="zh_Hant"><tig><term>空白字元誤用</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>new-line</term></tig></langSet>
+                <langSet xml:lang="zh_Hant"><tig><term>換行符號</term></tig></langSet>
+            </termEntry>
         </body>
     </text>
 </martif>
