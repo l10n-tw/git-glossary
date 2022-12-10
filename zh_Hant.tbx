@@ -674,6 +674,78 @@
                 <langSet xml:lang="en"><tig><term>repository</term></tig></langSet>
                 <langSet xml:lang="zh_Hant"><tig><term>版本庫</term></tig></langSet>
             </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>repo</term></tig></langSet>
+                <langSet xml:lang="zh_Hant"><tig><term>版本庫</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>return</term></tig></langSet>
+                <langSet xml:lang="zh_Hant"><tig><term>回傳</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>returned</term></tig></langSet>
+                <langSet xml:lang="zh_Hant"><tig><term>回傳</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>filename</term></tig></langSet>
+                <langSet xml:lang="zh_Hant"><tig><term>檔案名稱</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>unexpected</term></tig></langSet>
+                <langSet xml:lang="zh_Hant"><tig><term>非預期的</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>corrupt</term></tig></langSet>
+                <langSet xml:lang="zh_Hant"><tig><term>損壞</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>binary</term></tig></langSet>
+                <langSet xml:lang="zh_Hant"><tig><term>二進位</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>missing</term></tig></langSet>
+                <langSet xml:lang="zh_Hant"><tig><term>缺少</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Falling back</term></tig></langSet>
+                <langSet xml:lang="zh_Hant"><tig><term>回復</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>removal</term></tig></langSet>
+                <langSet xml:lang="zh_Hant"><tig><term>移除性的</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>mode</term></tig></langSet>
+                <langSet xml:lang="zh_Hant"><tig><term>模式</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>match</term></tig></langSet>
+                <langSet xml:lang="zh_Hant"><tig><term>符合</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>does not match</term></tig></langSet>
+                <langSet xml:lang="zh_Hant"><tig><term>不符</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>unmatched</term></tig></langSet>
+                <langSet xml:lang="zh_Hant"><tig><term>不對稱的</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>submodule</term></tig></langSet>
+                <langSet xml:lang="zh_Hant"><tig><term>子模組</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>cannot</term></tig></langSet>
+                <langSet xml:lang="zh_Hant"><tig><term>無法</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>cleanly</term></tig></langSet>
+                <langSet xml:lang="zh_Hant"><tig><term>完全地</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>aborting</term></tig></langSet>
+                <langSet xml:lang="zh_Hant"><tig><term>中止</term></tig></langSet>
+            </termEntry>
         </body>
     </text>
 </martif>
