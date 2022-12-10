@@ -254,10 +254,6 @@
                 <langSet xml:lang="en"><tig><term>deletion</term></tig></langSet>
                 <langSet xml:lang="zh_Hant"><tig><term>刪除動作</term></tig></langSet>
             </termEntry>
-            <termEntry id="1">
-                <langSet xml:lang="en"><tig><term>add</term></tig></langSet>
-                <langSet xml:lang="zh_Hant"><tig><term>加入</term></tig></langSet>
-            </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>addition</term></tig></langSet>
                 <langSet xml:lang="zh_Hant"><tig><term>加入</term></tig></langSet>
