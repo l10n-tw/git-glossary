@@ -782,6 +782,102 @@
                 <langSet xml:lang="en"><tig><term>new-line</term></tig></langSet>
                 <langSet xml:lang="zh_Hant"><tig><term>換列符號</term></tig></langSet>
             </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>deflate</term></tig></langSet>
+                <langSet xml:lang="zh_Hant"><tig><term>壓縮</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>report</term></tig></langSet>
+                <langSet xml:lang="zh_Hant"><tig><term>報告</term></tig></langSet>
+            </termEntry>
+            <termEntry id="1">
+                <langSet xml:lang="en"><tig><term>report</term></tig></langSet>
+                <langSet xml:lang="zh_Hant"><tig><term>回報</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>reported</term></tig></langSet>
+                <langSet xml:lang="zh_Hant"><tig><term>回報</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>working directory</term></tig></langSet>
+                <langSet xml:lang="zh_Hant"><tig><term>工作目錄</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>stdout</term></tig></langSet>
+                <langSet xml:lang="zh_Hant"><tig><term>stdout</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>stdin</term></tig></langSet>
+                <langSet xml:lang="zh_Hant"><tig><term>stdin</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>stderr</term></tig></langSet>
+                <langSet xml:lang="zh_Hant"><tig><term>stderr</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>upstream</term></tig></langSet>
+                <langSet xml:lang="zh_Hant"><tig><term>上游</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>branch</term></tig></langSet>
+                <langSet xml:lang="zh_Hant"><tig><term>分支</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>request</term></tig></langSet>
+                <langSet xml:lang="zh_Hant"><tig><term>請求</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>requested</term></tig></langSet>
+                <langSet xml:lang="zh_Hant"><tig><term>請求的</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>param</term></tig></langSet>
+                <langSet xml:lang="zh_Hant"><tig><term>參數</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>parameter</term></tig></langSet>
+                <langSet xml:lang="zh_Hant"><tig><term>參數</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>copy</term></tig></langSet>
+                <langSet xml:lang="zh_Hant"><tig><term>拷貝</term></tig></langSet>
+            </termEntry>
+            <termEntry id="1">
+                <langSet xml:lang="en"><tig><term>record</term></tig></langSet>
+                <langSet xml:lang="zh_Hant"><tig><term>錄入</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>interactive</term></tig></langSet>
+                <langSet xml:lang="zh_Hant"><tig><term>互動式</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>packet</term></tig></langSet>
+                <langSet xml:lang="zh_Hant"><tig><term>封包</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>protocol</term></tig></langSet>
+                <langSet xml:lang="zh_Hant"><tig><term>通訊協定</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>term</term></tig></langSet>
+                <langSet xml:lang="zh_Hant"><tig><term>術語</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>valid</term></tig></langSet>
+                <langSet xml:lang="zh_Hant"><tig><term>有效</term></tig></langSet>
+            </termEntry>
+            <termEntry id="1">
+                <langSet xml:lang="en"><tig><term>invalid</term></tig></langSet>
+                <langSet xml:lang="zh_Hant"><tig><term>無效</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>builtin</term></tig></langSet>
+                <langSet xml:lang="zh_Hant"><tig><term>內建</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>bisecting</term></tig></langSet>
+                <langSet xml:lang="zh_Hant"><tig><term>二分搜尋</term></tig></langSet>
+            </termEntry>
         </body>
     </text>
 </martif>
