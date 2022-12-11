@@ -1258,6 +1258,26 @@
                 <langSet xml:lang="en"><tig><term>terminate</term></tig></langSet>
                 <langSet xml:lang="zh_Hant"><tig><term>終止</term></tig></langSet>
             </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>parse</term></tig></langSet>
+                <langSet xml:lang="zh_Hant"><tig><term>解析</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>contact</term></tig></langSet>
+                <langSet xml:lang="zh_Hant"><tig><term>聯絡地址</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>contacts</term></tig></langSet>
+                <langSet xml:lang="zh_Hant"><tig><term>聯絡地址</term></tig></langSet>
+            </termEntry>
+            <termEntry id="1">
+                <langSet xml:lang="en"><tig><term>index</term></tig></langSet>
+                <langSet xml:lang="zh_Hant"><tig><term>索引區</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>walk</term></tig></langSet>
+                <langSet xml:lang="zh_Hant"><tig><term>遍歷時</term></tig></langSet>
+            </termEntry>
         </body>
     </text>
 </martif>
