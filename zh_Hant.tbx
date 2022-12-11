@@ -1042,6 +1042,18 @@
                 <langSet xml:lang="en"><tig><term>porcelain</term></tig></langSet>
                 <langSet xml:lang="zh_Hant"><tig><term>適合機器讀取</term></tig></langSet>
             </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>default</term></tig></langSet>
+                <langSet xml:lang="zh_Hant"><tig><term>預設</term></tig></langSet>
+            </termEntry>
+            <termEntry id="1">
+                <langSet xml:lang="en"><tig><term>commit</term></tig></langSet>
+                <langSet xml:lang="zh_Hant"><tig><term>提交編號</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>email</term></tig></langSet>
+                <langSet xml:lang="zh_Hant"><tig><term>信箱</term></tig></langSet>
+            </termEntry>
         </body>
     </text>
 </martif>
