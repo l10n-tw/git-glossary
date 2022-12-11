@@ -1006,6 +1006,46 @@
                 <langSet xml:lang="en"><tig><term>packfile</term></tig></langSet>
                 <langSet xml:lang="zh_Hant"><tig><term>封裝檔案</term></tig></langSet>
             </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>color</term></tig></langSet>
+                <langSet xml:lang="zh_Hant"><tig><term>顏色</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>incrementally</term></tig></langSet>
+                <langSet xml:lang="zh_Hant"><tig><term>漸進式</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>boundary commits</term></tig></langSet>
+                <langSet xml:lang="zh_Hant"><tig><term>邊界提交</term></tig></langSet>
+            </termEntry>
+            <termEntry id="1">
+                <langSet xml:lang="en"><tig><term>default</term></tig></langSet>
+                <langSet xml:lang="zh_Hant"><tig><term>預設值</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>object</term></tig></langSet>
+                <langSet xml:lang="zh_Hant"><tig><term>物件</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>commits</term></tig></langSet>
+                <langSet xml:lang="zh_Hant"><tig><term>提交</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>boundary</term></tig></langSet>
+                <langSet xml:lang="zh_Hant"><tig><term>邊界</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>boundaries</term></tig></langSet>
+                <langSet xml:lang="zh_Hant"><tig><term>邊界</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>root</term></tig></langSet>
+                <langSet xml:lang="zh_Hant"><tig><term>根</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>porcelain</term></tig></langSet>
+                <langSet xml:lang="zh_Hant"><tig><term>適合機器讀取</term></tig></langSet>
+            </termEntry>
         </body>
     </text>
 </martif>
