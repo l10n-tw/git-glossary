@@ -1282,6 +1282,18 @@
                 <langSet xml:lang="en"><tig><term>tag</term></tig></langSet>
                 <langSet xml:lang="zh_Hant"><tig><term>標籤</term></tig></langSet>
             </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>session</term></tig></langSet>
+                <langSet xml:lang="zh_Hant"><tig><term>工作階段</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>ish</term></tig></langSet>
+                <langSet xml:lang="zh_Hant"><tig><term>指示元</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>restore</term></tig></langSet>
+                <langSet xml:lang="zh_Hant"><tig><term>復原</term></tig></langSet>
+            </termEntry>
         </body>
     </text>
 </martif>
