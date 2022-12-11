@@ -1292,7 +1292,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>restore</term></tig></langSet>
-                <langSet xml:lang="zh_Hant"><tig><term>復原</term></tig></langSet>
+                <langSet xml:lang="zh_Hant"><tig><term>還原</term></tig></langSet>
             </termEntry>
         </body>
     </text>
