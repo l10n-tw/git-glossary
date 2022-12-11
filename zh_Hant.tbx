@@ -1256,7 +1256,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>terminate</term></tig></langSet>
-                <langSet xml:lang="zh_Hant"><tig><term>作結</term></tig></langSet>
+                <langSet xml:lang="zh_Hant"><tig><term>終止</term></tig></langSet>
             </termEntry>
         </body>
     </text>
