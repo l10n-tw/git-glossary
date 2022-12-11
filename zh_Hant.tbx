@@ -1294,6 +1294,34 @@
                 <langSet xml:lang="en"><tig><term>restore</term></tig></langSet>
                 <langSet xml:lang="zh_Hant"><tig><term>還原</term></tig></langSet>
             </termEntry>
+            <termEntry id="1">
+                <langSet xml:lang="en"><tig><term>cannot</term></tig></langSet>
+                <langSet xml:lang="zh_Hant"><tig><term>不能</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>shallow</term></tig></langSet>
+                <langSet xml:lang="zh_Hant"><tig><term>淺層</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>bare</term></tig></langSet>
+                <langSet xml:lang="zh_Hant"><tig><term>裸</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>mirror</term></tig></langSet>
+                <langSet xml:lang="zh_Hant"><tig><term>鏡像</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>parallel</term></tig></langSet>
+                <langSet xml:lang="zh_Hant"><tig><term>平行</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>template</term></tig></langSet>
+                <langSet xml:lang="zh_Hant"><tig><term>模板</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>depth</term></tig></langSet>
+                <langSet xml:lang="zh_Hant"><tig><term>深度</term></tig></langSet>
+            </termEntry>
         </body>
     </text>
 </martif>
