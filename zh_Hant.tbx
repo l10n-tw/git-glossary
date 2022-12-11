@@ -1106,6 +1106,158 @@
                 <langSet xml:lang="en"><tig><term>renamed</term></tig></langSet>
                 <langSet xml:lang="zh_Hant"><tig><term>已重新命名</term></tig></langSet>
             </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>subject</term></tig></langSet>
+                <langSet xml:lang="zh_Hant"><tig><term>主旨</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>hash</term></tig></langSet>
+                <langSet xml:lang="zh_Hant"><tig><term>雜湊值</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>configuration</term></tig></langSet>
+                <langSet xml:lang="zh_Hant"><tig><term>組態</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>branches</term></tig></langSet>
+                <langSet xml:lang="zh_Hant"><tig><term>分支</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>print</term></tig></langSet>
+                <langSet xml:lang="zh_Hant"><tig><term>輸出</term></tig></langSet>
+            </termEntry>
+            <termEntry id="1">
+                <langSet xml:lang="en"><tig><term>list</term></tig></langSet>
+                <langSet xml:lang="zh_Hant"><tig><term>列出</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>local</term></tig></langSet>
+                <langSet xml:lang="zh_Hant"><tig><term>本機</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>name</term></tig></langSet>
+                <langSet xml:lang="zh_Hant"><tig><term>名稱</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>reflog</term></tig></langSet>
+                <langSet xml:lang="zh_Hant"><tig><term>引用日誌</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>description</term></tig></langSet>
+                <langSet xml:lang="zh_Hant"><tig><term>描述</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>edit</term></tig></langSet>
+                <langSet xml:lang="zh_Hant"><tig><term>編輯</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>case insensitive</term></tig></langSet>
+                <langSet xml:lang="zh_Hant"><tig><term>不區分大小寫</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>sorting</term></tig></langSet>
+                <langSet xml:lang="zh_Hant"><tig><term>排序</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>filtering</term></tig></langSet>
+                <langSet xml:lang="zh_Hant"><tig><term>過濾</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>submodules</term></tig></langSet>
+                <langSet xml:lang="zh_Hant"><tig><term>子模組</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>recurse</term></tig></langSet>
+                <langSet xml:lang="zh_Hant"><tig><term>遞迴</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>resolve</term></tig></langSet>
+                <langSet xml:lang="zh_Hant"><tig><term>解析</term></tig></langSet>
+            </termEntry>
+            <termEntry id="1">
+                <langSet xml:lang="en"><tig><term>resolve</term></tig></langSet>
+                <langSet xml:lang="zh_Hant"><tig><term>解決</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>detach</term></tig></langSet>
+                <langSet xml:lang="zh_Hant"><tig><term>分離</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>detached</term></tig></langSet>
+                <langSet xml:lang="zh_Hant"><tig><term>分離</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>detached HEAD</term></tig></langSet>
+                <langSet xml:lang="zh_Hant"><tig><term>分離 HEAD 指針</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>bugreport</term></tig></langSet>
+                <langSet xml:lang="zh_Hant"><tig><term>臭蟲報告</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>progress meter</term></tig></langSet>
+                <langSet xml:lang="zh_Hant"><tig><term>進度列</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Unbundling</term></tig></langSet>
+                <langSet xml:lang="zh_Hant"><tig><term>正在拆分</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>flush</term></tig></langSet>
+                <langSet xml:lang="zh_Hant"><tig><term>排清</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>batch</term></tig></langSet>
+                <langSet xml:lang="zh_Hant"><tig><term>批次處理</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>option</term></tig></langSet>
+                <langSet xml:lang="zh_Hant"><tig><term>選項</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>specify</term></tig></langSet>
+                <langSet xml:lang="zh_Hant"><tig><term>指定</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>specified</term></tig></langSet>
+                <langSet xml:lang="zh_Hant"><tig><term>指定</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>pretty-print</term></tig></langSet>
+                <langSet xml:lang="zh_Hant"><tig><term>美化輸出</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>mail</term></tig></langSet>
+                <langSet xml:lang="zh_Hant"><tig><term>信件</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>objects</term></tig></langSet>
+                <langSet xml:lang="zh_Hant"><tig><term>物件</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>optimize</term></tig></langSet>
+                <langSet xml:lang="zh_Hant"><tig><term>最佳化</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>buffer</term></tig></langSet>
+                <langSet xml:lang="zh_Hant"><tig><term>緩衝</term></tig></langSet>
+            </termEntry>
+            <termEntry id="1">
+                <langSet xml:lang="en"><tig><term>buffer</term></tig></langSet>
+                <langSet xml:lang="zh_Hant"><tig><term>緩衝區</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>emit</term></tig></langSet>
+                <langSet xml:lang="zh_Hant"><tig><term>輸出</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>emitting</term></tig></langSet>
+                <langSet xml:lang="zh_Hant"><tig><term>輸出</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>terminate</term></tig></langSet>
+                <langSet xml:lang="zh_Hant"><tig><term>作結</term></tig></langSet>
+            </termEntry>
         </body>
     </text>
 </martif>
