@@ -862,10 +862,6 @@
                 <langSet xml:lang="en"><tig><term>valid</term></tig></langSet>
                 <langSet xml:lang="zh_Hant"><tig><term>有效</term></tig></langSet>
             </termEntry>
-            <termEntry id="1">
-                <langSet xml:lang="en"><tig><term>invalid</term></tig></langSet>
-                <langSet xml:lang="zh_Hant"><tig><term>無效</term></tig></langSet>
-            </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>builtin</term></tig></langSet>
                 <langSet xml:lang="zh_Hant"><tig><term>內建</term></tig></langSet>
