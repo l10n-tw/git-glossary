@@ -983,10 +983,6 @@
                 <langSet xml:lang="zh_Hant"><tig><term>迭代器</term></tig></langSet>
             </termEntry>
             <termEntry>
-                <langSet xml:lang="en"><tig><term>default</term></tig></langSet>
-                <langSet xml:lang="zh_Hant"><tig><term>預設</term></tig></langSet>
-            </termEntry>
-            <termEntry>
                 <langSet xml:lang="en"><tig><term>invalidate</term></tig></langSet>
                 <langSet xml:lang="zh_Hant"><tig><term>使失效</term></tig></langSet>
             </termEntry>
