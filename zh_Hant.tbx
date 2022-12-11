@@ -1054,6 +1054,46 @@
                 <langSet xml:lang="en"><tig><term>email</term></tig></langSet>
                 <langSet xml:lang="zh_Hant"><tig><term>信箱</term></tig></langSet>
             </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>blame</term></tig></langSet>
+                <langSet xml:lang="zh_Hant"><tig><term>溯源</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>blaming</term></tig></langSet>
+                <langSet xml:lang="zh_Hant"><tig><term>溯源動作</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>metadata</term></tig></langSet>
+                <langSet xml:lang="zh_Hant"><tig><term>中介資料</term></tig></langSet>
+            </termEntry>
+            <termEntry id="1">
+                <langSet xml:lang="en"><tig><term>color</term></tig></langSet>
+                <langSet xml:lang="zh_Hant"><tig><term>著色</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>revisions</term></tig></langSet>
+                <langSet xml:lang="zh_Hant"><tig><term>修訂集</term></tig></langSet>
+            </termEntry>
+            <termEntry id="1">
+                <langSet xml:lang="en"><tig><term>blaming</term></tig></langSet>
+                <langSet xml:lang="zh_Hant"><tig><term>溯源</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>remote-tracking</term></tig></langSet>
+                <langSet xml:lang="zh_Hant"><tig><term>遠端追蹤</term></tig></langSet>
+            </termEntry>
+            <termEntry id="1">
+                <langSet xml:lang="en"><tig><term>HEAD</term></tig></langSet>
+                <langSet xml:lang="zh_Hant"><tig><term>HEAD 指針</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>rebased</term></tig></langSet>
+                <langSet xml:lang="zh_Hant"><tig><term>重定基底</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>bisected</term></tig></langSet>
+                <langSet xml:lang="zh_Hant"><tig><term>二分搜尋</term></tig></langSet>
+            </termEntry>
         </body>
     </text>
 </martif>
