@@ -1322,6 +1322,10 @@
                 <langSet xml:lang="en"><tig><term>depth</term></tig></langSet>
                 <langSet xml:lang="zh_Hant"><tig><term>深度</term></tig></langSet>
             </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Fast-forward</term></tig></langSet>
+                <langSet xml:lang="zh_Hant"><tig><term>快轉</term></tig></langSet>
+            </termEntry>
         </body>
     </text>
 </martif>
