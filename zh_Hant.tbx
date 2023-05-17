@@ -1326,6 +1326,18 @@
                 <langSet xml:lang="en"><tig><term>Fast-forward</term></tig></langSet>
                 <langSet xml:lang="zh_Hant"><tig><term>快轉</term></tig></langSet>
             </termEntry>
+            <termEntry id="1">
+                <langSet xml:lang="en"><tig><term>bundle</term></tig></langSet>
+                <langSet xml:lang="zh_Hant"><tig><term>套件包</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>patterns</term></tig></langSet>
+                <langSet xml:lang="zh_Hant"><tig><term>模式</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>rev-index</term></tig></langSet>
+                <langSet xml:lang="zh_Hant"><tig><term>修訂版索引</term></tig></langSet>
+            </termEntry>
         </body>
     </text>
 </martif>
