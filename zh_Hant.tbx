@@ -1338,6 +1338,34 @@
                 <langSet xml:lang="en"><tig><term>rev-index</term></tig></langSet>
                 <langSet xml:lang="zh_Hant"><tig><term>修訂版索引</term></tig></langSet>
             </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>merge base</term></tig></langSet>
+                <langSet xml:lang="zh_Hant"><tig><term>合併基底</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>token</term></tig></langSet>
+                <langSet xml:lang="zh_Hant"><tig><term>權杖</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>prerequisite commits</term></tig></langSet>
+                <langSet xml:lang="zh_Hant"><tig><term>前提提交</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>object store</term></tig></langSet>
+                <langSet xml:lang="zh_Hant"><tig><term>物件儲存區</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>checksum</term></tig></langSet>
+                <langSet xml:lang="zh_Hant"><tig><term>總和檢查碼</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>remote</term></tig></langSet>
+                <langSet xml:lang="zh_Hant"><tig><term>遠端</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>enumerate</term></tig></langSet>
+                <langSet xml:lang="zh_Hant"><tig><term>列舉</term></tig></langSet>
+            </termEntry>
         </body>
     </text>
 </martif>
