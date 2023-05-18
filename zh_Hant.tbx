@@ -1366,6 +1366,10 @@
                 <langSet xml:lang="en"><tig><term>enumerate</term></tig></langSet>
                 <langSet xml:lang="zh_Hant"><tig><term>列舉</term></tig></langSet>
             </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>unlink</term></tig></langSet>
+                <langSet xml:lang="zh_Hant"><tig><term>刪除</term></tig></langSet>
+            </termEntry>
         </body>
     </text>
 </martif>
