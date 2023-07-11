@@ -189,6 +189,7 @@
             <termEntry>
                 <langSet xml:lang="en"><tig><term>untracked</term></tig></langSet>
                 <langSet xml:lang="zh_Hant"><tig><term>未追蹤</term></tig></langSet>
+                <descrip>(adj.)</descrip>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>working tree</term></tig></langSet>
@@ -213,6 +214,7 @@
             <termEntry id="1">
                 <langSet xml:lang="en"><tig><term>diff</term></tig></langSet>
                 <langSet xml:lang="zh_Hant"><tig><term>diff</term></tig></langSet>
+                <descrip>As a command.</descrip>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>unselect</term></tig></langSet>
@@ -233,6 +235,7 @@
             <termEntry id="1">
                 <langSet xml:lang="en"><tig><term>change</term></tig></langSet>
                 <langSet xml:lang="zh_Hant"><tig><term>更動</term></tig></langSet>
+                <descrip>(noun.)</descrip>
             </termEntry>
             <termEntry id="changes">
                 <langSet xml:lang="en"><tig><term>changes</term></tig></langSet>
@@ -649,6 +652,7 @@
             <termEntry>
                 <langSet xml:lang="en"><tig><term>sparse</term></tig></langSet>
                 <langSet xml:lang="zh_Hant"><tig><term>稀疏的</term></tig></langSet>
+                <descrip>(adj.)</descrip>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>sparsity</term></tig></langSet>
@@ -785,10 +789,12 @@
             <termEntry>
                 <langSet xml:lang="en"><tig><term>report</term></tig></langSet>
                 <langSet xml:lang="zh_Hant"><tig><term>報告</term></tig></langSet>
+                <descrip>(noun.)</descrip>
             </termEntry>
             <termEntry id="1">
                 <langSet xml:lang="en"><tig><term>report</term></tig></langSet>
                 <langSet xml:lang="zh_Hant"><tig><term>回報</term></tig></langSet>
+                <descrip>(verb.)</descrip>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>reported</term></tig></langSet>
@@ -825,6 +831,7 @@
             <termEntry>
                 <langSet xml:lang="en"><tig><term>requested</term></tig></langSet>
                 <langSet xml:lang="zh_Hant"><tig><term>請求的</term></tig></langSet>
+                <descrip>(adj.)</descrip>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>param</term></tig></langSet>
@@ -841,6 +848,7 @@
             <termEntry id="1">
                 <langSet xml:lang="en"><tig><term>record</term></tig></langSet>
                 <langSet xml:lang="zh_Hant"><tig><term>錄入</term></tig></langSet>
+                <descrip>record a patch as an commit</descrip>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>interactive</term></tig></langSet>
@@ -893,10 +901,12 @@
             <termEntry>
                 <langSet xml:lang="en"><tig><term>sign</term></tig></langSet>
                 <langSet xml:lang="zh_Hant"><tig><term>簽名</term></tig></langSet>
+                <descrip>(verb.)</descrip>
             </termEntry>
             <termEntry id="1">
                 <langSet xml:lang="en"><tig><term>sign</term></tig></langSet>
                 <langSet xml:lang="zh_Hant"><tig><term>簽章</term></tig></langSet>
+                <descrip>(noun.)</descrip>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>signature</term></tig></langSet>
@@ -957,6 +967,7 @@
             <termEntry>
                 <langSet xml:lang="en"><tig><term>promisor</term></tig></langSet>
                 <langSet xml:lang="zh_Hant"><tig><term>承諾者</term></tig></langSet>
+                <descrip>https://git-scm.com/docs/partial-clone/2.19.0</descrip>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>refs</term></tig></langSet>
@@ -1045,6 +1056,7 @@
             <termEntry id="1">
                 <langSet xml:lang="en"><tig><term>commit</term></tig></langSet>
                 <langSet xml:lang="zh_Hant"><tig><term>提交編號</term></tig></langSet>
+                <descrip>for example, “commit SHA1.”</descrip>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>email</term></tig></langSet>
@@ -1065,6 +1077,7 @@
             <termEntry id="1">
                 <langSet xml:lang="en"><tig><term>color</term></tig></langSet>
                 <langSet xml:lang="zh_Hant"><tig><term>著色</term></tig></langSet>
+                <descrip>(verb.)</descrip>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>revisions</term></tig></langSet>
@@ -1081,6 +1094,7 @@
             <termEntry id="1">
                 <langSet xml:lang="en"><tig><term>HEAD</term></tig></langSet>
                 <langSet xml:lang="zh_Hant"><tig><term>HEAD 指針</term></tig></langSet>
+                <descrip>more explicit</descrip>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>rebased</term></tig></langSet>
@@ -1093,6 +1107,7 @@
             <termEntry id="1">
                 <langSet xml:lang="en"><tig><term>copy</term></tig></langSet>
                 <langSet xml:lang="zh_Hant"><tig><term>複本</term></tig></langSet>
+                <descrip>(noun.)</descrip>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>config-file</term></tig></langSet>
@@ -1129,6 +1144,7 @@
             <termEntry id="1">
                 <langSet xml:lang="en"><tig><term>list</term></tig></langSet>
                 <langSet xml:lang="zh_Hant"><tig><term>列出</term></tig></langSet>
+                <descrip>(verb.)</descrip>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>local</term></tig></langSet>
@@ -1241,10 +1257,12 @@
             <termEntry>
                 <langSet xml:lang="en"><tig><term>buffer</term></tig></langSet>
                 <langSet xml:lang="zh_Hant"><tig><term>緩衝</term></tig></langSet>
+                <descrip>(verb.)</descrip>
             </termEntry>
             <termEntry id="1">
                 <langSet xml:lang="en"><tig><term>buffer</term></tig></langSet>
                 <langSet xml:lang="zh_Hant"><tig><term>緩衝區</term></tig></langSet>
+                <descrip>(noun.)</descrip>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>emit</term></tig></langSet>
@@ -1289,6 +1307,7 @@
             <termEntry>
                 <langSet xml:lang="en"><tig><term>ish</term></tig></langSet>
                 <langSet xml:lang="zh_Hant"><tig><term>指示元</term></tig></langSet>
+                <descrip>tree-ish, commit-ish</descrip>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>restore</term></tig></langSet>
@@ -1369,6 +1388,7 @@
             <termEntry>
                 <langSet xml:lang="en"><tig><term>unlink</term></tig></langSet>
                 <langSet xml:lang="zh_Hant"><tig><term>刪除</term></tig></langSet>
+                <descrip>unlink is exactly the alias to “rm”.</descrip>
             </termEntry>
         </body>
     </text>
