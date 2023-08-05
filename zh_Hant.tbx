@@ -1399,6 +1399,18 @@
                 <langSet xml:lang="zh_Hant"><tig><term>刪除</term></tig></langSet>
                 <descrip>unlink is exactly the alias to “rm”.</descrip>
             </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>orphan</term></tig></langSet>
+                <langSet xml:lang="zh_Hant"><tig><term>孤立</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>unreachable</term></tig></langSet>
+                <langSet xml:lang="zh_Hant"><tig><term>不可達</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>named pipe</term></tig></langSet>
+                <langSet xml:lang="zh_Hant"><tig><term>命名管線 (pipe)</term></tig></langSet>
+            </termEntry>
         </body>
     </text>
 </martif>
