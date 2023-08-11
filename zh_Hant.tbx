@@ -1411,6 +1411,14 @@
                 <langSet xml:lang="en"><tig><term>named pipe</term></tig></langSet>
                 <langSet xml:lang="zh_Hant"><tig><term>命名管線 (pipe)</term></tig></langSet>
             </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>exit code</term></tig></langSet>
+                <langSet xml:lang="zh_Hant"><tig><term>結束代碼</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>error code</term></tig></langSet>
+                <langSet xml:lang="zh_Hant"><tig><term>錯誤碼</term></tig></langSet>
+            </termEntry>
         </body>
     </text>
 </martif>
