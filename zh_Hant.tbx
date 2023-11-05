@@ -1419,6 +1419,14 @@
                 <langSet xml:lang="en"><tig><term>error code</term></tig></langSet>
                 <langSet xml:lang="zh_Hant"><tig><term>錯誤碼</term></tig></langSet>
             </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>cruft</term></tig></langSet>
+                <langSet xml:lang="zh_Hant"><tig><term>廢棄</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>chunk</term></tig></langSet>
+                <langSet xml:lang="zh_Hant"><tig><term>區塊</term></tig></langSet>
+            </termEntry>
         </body>
     </text>
 </martif>
