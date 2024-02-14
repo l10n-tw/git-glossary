@@ -1427,6 +1427,22 @@
                 <langSet xml:lang="en"><tig><term>chunk</term></tig></langSet>
                 <langSet xml:lang="zh_Hant"><tig><term>區塊</term></tig></langSet>
             </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>unborn</term></tig></langSet>
+                <langSet xml:lang="zh_Hant"><tig><term>未誕生</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>born</term></tig></langSet>
+                <langSet xml:lang="zh_Hant"><tig><term>誕生</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>replay</term></tig></langSet>
+                <langSet xml:lang="zh_Hant"><tig><term>重放</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>advance</term></tig></langSet>
+                <langSet xml:lang="zh_Hant"><tig><term>演進</term></tig></langSet>
+            </termEntry>
         </body>
     </text>
 </martif>
