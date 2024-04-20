@@ -1443,6 +1443,11 @@
                 <langSet xml:lang="en"><tig><term>advance</term></tig></langSet>
                 <langSet xml:lang="zh_Hant"><tig><term>演進</term></tig></langSet>
             </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>comment</term></tig></langSet>
+                <langSet xml:lang="zh_Hant"><tig><term>備註</term></tig></langSet>
+                <note from="translator">指程式碼或組態檔等中供人類閱讀而機器忽略的字串。此翻譯從既有字串之翻譯總結而來。</note>
+            </termEntry>
         </body>
     </text>
 </martif>
