@@ -1448,6 +1448,10 @@
                 <langSet xml:lang="zh_Hant"><tig><term>備註</term></tig></langSet>
                 <note from="translator">指程式碼或組態檔等中供人類閱讀而機器忽略的字串。此翻譯從既有字串之翻譯總結而來。</note>
             </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>oid</term></tig></langSet>
+                <langSet xml:lang="zh_Hant"><tig><term>物件 ID</term></tig></langSet>
+            </termEntry>
         </body>
     </text>
 </martif>
