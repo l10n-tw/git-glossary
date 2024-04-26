@@ -1452,6 +1452,14 @@
                 <langSet xml:lang="en"><tig><term>oid</term></tig></langSet>
                 <langSet xml:lang="zh_Hant"><tig><term>物件 ID</term></tig></langSet>
             </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>conflict style</term></tig></langSet>
+                <langSet xml:lang="zh_Hant"><tig><term>衝突輸出風格</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>loose</term></tig></langSet>
+                <langSet xml:lang="zh_Hant"><tig><term>鬆散</term></tig></langSet>
+            </termEntry>
         </body>
     </text>
 </martif>
