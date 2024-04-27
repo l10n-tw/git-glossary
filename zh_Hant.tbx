@@ -1460,6 +1460,14 @@
                 <langSet xml:lang="en"><tig><term>loose</term></tig></langSet>
                 <langSet xml:lang="zh_Hant"><tig><term>鬆散</term></tig></langSet>
             </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>deprecated</term></tig></langSet>
+                <langSet xml:lang="zh_Hant"><tig><term>棄用</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>map</term></tig></langSet>
+                <langSet xml:lang="zh_Hant"><tig><term>映射</term></tig></langSet>
+            </termEntry>
         </body>
     </text>
 </martif>
