@@ -1468,6 +1468,18 @@
                 <langSet xml:lang="en"><tig><term>map</term></tig></langSet>
                 <langSet xml:lang="zh_Hant"><tig><term>映射</term></tig></langSet>
             </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>symbolic link</term></tig></langSet>
+                <langSet xml:lang="zh_Hant"><tig><term>象徵式連結</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>commit-graph</term></tig></langSet>
+                <langSet xml:lang="zh_Hant"><tig><term>提交圖</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>topological level</term></tig></langSet>
+                <langSet xml:lang="zh_Hant"><tig><term>拓撲層級</term></tig></langSet>
+            </termEntry>
         </body>
     </text>
 </martif>
