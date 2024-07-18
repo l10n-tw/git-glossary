@@ -1101,7 +1101,7 @@
             </termEntry>
             <termEntry id="1">
                 <langSet xml:lang="en"><tig><term>HEAD</term></tig></langSet>
-                <langSet xml:lang="zh_Hant"><tig><term>HEAD 指針</term></tig></langSet>
+                <langSet xml:lang="zh_Hant"><tig><term>HEAD 指標</term></tig></langSet>
                 <descrip>more explicit</descrip>
             </termEntry>
             <termEntry>
