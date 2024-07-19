@@ -1480,6 +1480,19 @@
                 <langSet xml:lang="en"><tig><term>topological level</term></tig></langSet>
                 <langSet xml:lang="zh_Hant"><tig><term>拓撲層級</term></tig></langSet>
             </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>commit graph</term></tig></langSet>
+                <langSet xml:lang="zh_Hant"><tig><term>提交圖</term></tig></langSet>
+            </termEntry>
+            <termEntry id="(diff)stat graph。根據情況選擇「統計圖形」，避免歧義。">
+                <langSet xml:lang="en"><tig><term>graph</term></tig></langSet>
+                <langSet xml:lang="zh_Hant"><tig><term>圖形</term></tig></langSet>
+                <note from="translator">(diff)stat graph</note>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>graph</term></tig></langSet>
+                <langSet xml:lang="zh_Hant"><tig><term>圖</term></tig></langSet>
+            </termEntry>
         </body>
     </text>
 </martif>
