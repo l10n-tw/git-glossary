@@ -1493,6 +1493,10 @@
                 <langSet xml:lang="en"><tig><term>graph</term></tig></langSet>
                 <langSet xml:lang="zh_Hant"><tig><term>圖</term></tig></langSet>
             </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>staging area</term></tig></langSet>
+                <langSet xml:lang="zh_Hant"><tig><term>暫存區</term></tig></langSet>
+            </termEntry>
         </body>
     </text>
 </martif>
