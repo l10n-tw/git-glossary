@@ -113,7 +113,6 @@
             <termEntry>
                 <langSet xml:lang="en"><tig><term>change</term></tig></langSet>
                 <langSet xml:lang="zh_Hant"><tig><term>變更</term></tig></langSet>
-                <note from="translator">(verb.)</note>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>unchanged</term></tig></langSet>
@@ -1487,6 +1486,10 @@
             <termEntry>
                 <langSet xml:lang="en"><tig><term>staging area</term></tig></langSet>
                 <langSet xml:lang="zh_Hant"><tig><term>暫存區</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>changes</term></tig></langSet>
+                <langSet xml:lang="zh_Hant"><tig><term>變更</term></tig></langSet>
             </termEntry>
         </body>
     </text>
