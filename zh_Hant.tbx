@@ -635,7 +635,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Unrecognized</term></tig></langSet>
-                <langSet xml:lang="zh_Hant"><tig><term>無法識別</term></tig></langSet>
+                <langSet xml:lang="zh_Hant"><tig><term>無法辨識</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>note:</term></tig></langSet>
@@ -1490,6 +1490,18 @@
             <termEntry>
                 <langSet xml:lang="en"><tig><term>changes</term></tig></langSet>
                 <langSet xml:lang="zh_Hant"><tig><term>變更</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>changed</term></tig></langSet>
+                <langSet xml:lang="zh_Hant"><tig><term>變更</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>enable</term></tig></langSet>
+                <langSet xml:lang="zh_Hant"><tig><term>啟用</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>disable</term></tig></langSet>
+                <langSet xml:lang="zh_Hant"><tig><term>停用</term></tig></langSet>
             </termEntry>
         </body>
     </text>
