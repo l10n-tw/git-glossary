@@ -1503,6 +1503,24 @@
                 <langSet xml:lang="en"><tig><term>disable</term></tig></langSet>
                 <langSet xml:lang="zh_Hant"><tig><term>停用</term></tig></langSet>
             </termEntry>
+            <termEntry id="ours 分支">
+                <langSet xml:lang="en"><tig><term>ours</term></tig></langSet>
+                <langSet xml:lang="zh_Hant"><tig><term>我方</term></tig></langSet>
+                <note from="translator">ours 分支</note>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>their</term></tig></langSet>
+                <langSet xml:lang="zh_Hant"><tig><term>他方</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>our</term></tig></langSet>
+                <langSet xml:lang="zh_Hant"><tig><term>我方</term></tig></langSet>
+            </termEntry>
+            <termEntry id="theirs 分支">
+                <langSet xml:lang="en"><tig><term>theirs</term></tig></langSet>
+                <langSet xml:lang="zh_Hant"><tig><term>他方</term></tig></langSet>
+                <note from="translator">theirs 分支</note>
+            </termEntry>
         </body>
     </text>
 </martif>
