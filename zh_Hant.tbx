@@ -1202,7 +1202,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>detached HEAD</term></tig></langSet>
-                <langSet xml:lang="zh_Hant"><tig><term>分離 HEAD 指針</term></tig></langSet>
+                <langSet xml:lang="zh_Hant"><tig><term>分離 HEAD 指標</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>bugreport</term></tig></langSet>
@@ -1315,6 +1315,7 @@
             <termEntry id="1">
                 <langSet xml:lang="en"><tig><term>cannot</term></tig></langSet>
                 <langSet xml:lang="zh_Hant"><tig><term>不能</term></tig></langSet>
+                <note from="translator">當情況是「不（可）能做」，例如「目前不在任何分支上」，顯然就「不能對目前分支操作」</note>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>shallow</term></tig></langSet>
@@ -1520,6 +1521,10 @@
                 <langSet xml:lang="en"><tig><term>theirs</term></tig></langSet>
                 <langSet xml:lang="zh_Hant"><tig><term>他方</term></tig></langSet>
                 <note from="translator">theirs 分支</note>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>failed to</term></tig></langSet>
+                <langSet xml:lang="zh_Hant"><tig><term>無法</term></tig></langSet>
             </termEntry>
         </body>
     </text>
