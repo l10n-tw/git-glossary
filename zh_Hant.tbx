@@ -1293,7 +1293,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>walk</term></tig></langSet>
-                <langSet xml:lang="zh_Hant"><tig><term>遍歷</term></tig></langSet>
+                <langSet xml:lang="zh_Hant"><tig><term>走訪</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>tag</term></tig></langSet>
