@@ -1526,6 +1526,22 @@
                 <langSet xml:lang="en"><tig><term>failed to</term></tig></langSet>
                 <langSet xml:lang="zh_Hant"><tig><term>無法</term></tig></langSet>
             </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>cost matrix</term></tig></langSet>
+                <langSet xml:lang="zh_Hant"><tig><term>成本矩陣</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>transaction</term></tig></langSet>
+                <langSet xml:lang="zh_Hant"><tig><term>事務</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>dangling</term></tig></langSet>
+                <langSet xml:lang="zh_Hant"><tig><term>懸空</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>symref</term></tig></langSet>
+                <langSet xml:lang="zh_Hant"><tig><term>符號引用</term></tig></langSet>
+            </termEntry>
         </body>
     </text>
 </martif>
