@@ -489,7 +489,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>multi-pack-index</term></tig></langSet>
-                <langSet xml:lang="zh_Hant"><tig><term>多封裝索引</term></tig></langSet>
+                <langSet xml:lang="zh_Hant"><tig><term>多包索引</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>note</term></tig></langSet>
@@ -1537,6 +1537,10 @@
             <termEntry>
                 <langSet xml:lang="en"><tig><term>symref</term></tig></langSet>
                 <langSet xml:lang="zh_Hant"><tig><term>符號引用</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>multi-pack-indexes</term></tig></langSet>
+                <langSet xml:lang="zh_Hant"><tig><term>多包索引</term></tig></langSet>
             </termEntry>
         </body>
     </text>
