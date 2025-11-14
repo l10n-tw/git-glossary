@@ -424,7 +424,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>clone</term></tig></langSet>
-                <langSet xml:lang="zh_Hant"><tig><term>複製</term></tig></langSet>
+                <langSet xml:lang="zh_Hant"><tig><term>拓製</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>cone</term></tig></langSet>
@@ -839,7 +839,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>copy</term></tig></langSet>
-                <langSet xml:lang="zh_Hant"><tig><term>拷貝</term></tig></langSet>
+                <langSet xml:lang="zh_Hant"><tig><term>複製</term></tig></langSet>
             </termEntry>
             <termEntry id="1">
                 <langSet xml:lang="en"><tig><term>record</term></tig></langSet>
@@ -1540,7 +1540,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>symref</term></tig></langSet>
-                <langSet xml:lang="zh_Hant"><tig><term>符號引用</term></tig></langSet>
+                <langSet xml:lang="zh_Hant"><tig><term>象徵式引用</term></tig></langSet>
             </termEntry>
         </body>
     </text>
