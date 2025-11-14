@@ -15,10 +15,6 @@
                 <langSet xml:lang="zh_Hant"><tig><term>封裝</term></tig></langSet>
             </termEntry>
             <termEntry>
-                <langSet xml:lang="en"><tig><term>multi-pack</term></tig></langSet>
-                <langSet xml:lang="zh_Hant"><tig><term>多封裝</term></tig></langSet>
-            </termEntry>
-            <termEntry>
                 <langSet xml:lang="en"><tig><term>bitmap</term></tig></langSet>
                 <langSet xml:lang="zh_Hant"><tig><term>位圖</term></tig></langSet>
             </termEntry>
