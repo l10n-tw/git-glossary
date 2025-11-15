@@ -1542,6 +1542,14 @@
                 <langSet xml:lang="en"><tig><term>multi-pack-indexes</term></tig></langSet>
                 <langSet xml:lang="zh_Hant"><tig><term>多包索引</term></tig></langSet>
             </termEntry>
+            <termEntry id="(verb.)">
+                <langSet xml:lang="en"><tig><term>duplicate</term></tig></langSet>
+                <langSet xml:lang="zh_Hant"><tig><term>再製</term></tig></langSet>
+            </termEntry>
+            <termEntry id="(adj.)">
+                <langSet xml:lang="en"><tig><term>duplicate</term></tig></langSet>
+                <langSet xml:lang="zh_Hant"><tig><term>重複</term></tig></langSet>
+            </termEntry>
         </body>
     </text>
 </martif>
