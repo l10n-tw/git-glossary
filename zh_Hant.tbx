@@ -1562,6 +1562,14 @@
                 <langSet xml:lang="en"><tig><term>trailers</term></tig></langSet>
                 <langSet xml:lang="zh_Hant"><tig><term>結尾資訊</term></tig></langSet>
             </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>trailer</term></tig></langSet>
+                <langSet xml:lang="zh_Hant"><tig><term>結尾資訊</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>trailer value</term></tig></langSet>
+                <langSet xml:lang="zh_Hant"><tig><term>結尾資訊值</term></tig></langSet>
+            </termEntry>
         </body>
     </text>
 </martif>
