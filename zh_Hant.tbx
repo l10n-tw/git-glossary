@@ -1550,6 +1550,18 @@
                 <langSet xml:lang="en"><tig><term>duplicate</term></tig></langSet>
                 <langSet xml:lang="zh_Hant"><tig><term>重複</term></tig></langSet>
             </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>reword</term></tig></langSet>
+                <langSet xml:lang="zh_Hant"><tig><term>改寫說明</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>cover letter</term></tig></langSet>
+                <langSet xml:lang="zh_Hant"><tig><term>附函</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>trailers</term></tig></langSet>
+                <langSet xml:lang="zh_Hant"><tig><term>結尾資訊</term></tig></langSet>
+            </termEntry>
         </body>
     </text>
 </martif>
