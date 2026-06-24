@@ -505,7 +505,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>parent</term></tig></langSet>
-                <langSet xml:lang="zh_Hant"><tig><term>上級</term></tig></langSet>
+                <langSet xml:lang="zh_Hant"><tig><term>親代</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>pass</term></tig></langSet>
@@ -1569,6 +1569,11 @@
             <termEntry>
                 <langSet xml:lang="en"><tig><term>trailer value</term></tig></langSet>
                 <langSet xml:lang="zh_Hant"><tig><term>結尾資訊值</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>compaction</term></tig></langSet>
+                <langSet xml:lang="zh_Hant"><tig><term>緻密化</term></tig></langSet>
+                <note from="translator">與「compression」區分。其特指將相連的多包索引層化為單一緻密的多包索引之操作。</note>
             </termEntry>
         </body>
     </text>
